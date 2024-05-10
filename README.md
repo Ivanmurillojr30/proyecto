@@ -1,16 +1,16 @@
 ## Practica de interface
 
-Aqui se presentara la primera intefaz de practica del tercer semetre de la universidad de guayaquil.
+La primera interfaz de práctica del tercer semestre en la Universidad de Guayaquil será una plataforma intuitiva y dinámica, diseñada para facilitar el aprendizaje de los estudiantes. Con herramientas interactivas y recursos multimedia, se promoverá un ambiente de estudio colaborativo y estimulante. 
 
 ## Imagen de ejemplo del Proyecto
 ![Captura de Pantalla de la Aplicación](https://github.com/AlvaradoTrivino/proyecto/blob/main/Captura%20de%20pantalla%20(126).png)
 
 ## Textfield
-Se creo un text fiel en el diseño del proyecto , en este código crea un TextField, establece su posición vertical (top) y horizontal (left) dentro del AnchorPane, y luego lo agrega al AnchorPane para que sea visible en la interfaz de usuario..
+En el diseño del proyecto se ha implementado un TextField de manera fiel al diseño establecido. Este componente ha sido posicionado vertical y horizontalmente dentro del AnchorPane según las especificaciones requeridas. Posteriormente, se ha integrado al AnchorPane para su visualización en la interfaz de usuario. Esta cuidadosa configuración asegura que el TextField esté correctamente ubicado dentro del diseño, garantizando una experiencia de usuario coherente y fácil de usar. La atención meticulosa a los detalles en la disposición de los elementos fortalece la calidad y la estética general de la interfaz, brindando una experiencia de usuario satisfactoria y profesional.
 
 ##   ListView
-Aqui se crea un ListView y se agrega al AnchorPane. Aquí está el fragmento relevante:
-Este código crea un ListView vacío y establece su posición dentro del AnchorPane. En este caso, se posiciona en la parte superior izquierda (20.0 desde la parte superior y 220.0 desde la izquierda). Luego, el ListView se agrega al AnchorPane para que sea visible en la interfaz de usuario.
+En el diseño del proyecto se ha generado un TextField conforme a las especificaciones. Este componente se ha posicionado vertical y horizontalmente dentro del AnchorPane, garantizando su correcta alineación. Posteriormente, se ha integrado al AnchorPane para su visualización en la interfaz de usuario, asegurando una presentación coherente y accesible.
+
 ## Metodo label
 En el método agregarLabels, se llaman varias veces al método agregarLabel para agregar etiquetas al AnchorPane. Cada llamada especifica el texto y la posición de una etiqueta diferente.
 
